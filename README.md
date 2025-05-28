@@ -14,7 +14,7 @@
 
 ### 📁 Proyectos destacados (en proceso de organización):
 - 📈 *Predicción de productividad de pozos petroleros usando bootstrapping*  
-- 📊 *Análisis de tarifas móviles con estadística aplicada*  
+- 💻 *Análisis de tarifas móviles con estadística aplicada*  
 - 🌐 *Aplicación web interactiva con Streamlit para exploración de datos*
 
 ---
