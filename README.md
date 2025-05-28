@@ -22,5 +22,5 @@
 💼 Estoy abierto a oportunidades relacionadas con ciencia de datos, análisis económico, proyectos de sostenibilidad o modelos predictivos en áreas comerciales.
 
 📬 **Contacto**  
-[LinkedIn](www.linkedin.com/in/cesardud) • [GitHub](https://github.com/cesardud) • cesardudleynieto@gmail.com
+[LinkedIn](https://www.linkedin.com/in/cesardudleynieto/) • [GitHub](https://github.com/cesardud) • cesardudleynieto@gmail.com
 
