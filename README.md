@@ -12,7 +12,7 @@
 - LaTeX, Google Workspace, Office
 - OSINT & análisis para cumplimiento (AML, KYC)
 
-### 📁 Proyectos destacados (en proceso de organización):
+### 📁 Proyectos destacados:
 - 📈 *Predicción de productividad de pozos petroleros usando bootstrapping*  
 - 📲 *Análisis de tarifas móviles con estadística aplicada*  
 - 🌐 *Aplicación web interactiva con Streamlit para exploración de datos*
