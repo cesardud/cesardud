@@ -13,9 +13,21 @@
 - OSINT & análisis para cumplimiento (AML, KYC)
 
 ### 📁 Proyectos destacados:
-- 📈 *Predicción de productividad de pozos petroleros usando bootstrapping*  
-- 📲 *Análisis de tarifas móviles con estadística aplicada*  
-- 🌐 *Aplicación web interactiva con Streamlit para exploración de datos*
+🛢️ Predicción de productividad de pozos petroleros mediante bootstrapping
+Desarrollo de un modelo de machine learning para estimar las ganancias esperadas de pozos petroleros con base en datos geológicos. Se aplicaron técnicas de regresión lineal y simulaciones estadísticas para evaluar riesgos y maximizar la rentabilidad.
+Herramientas: Python, pandas, NumPy, scikit-learn
+
+🪙 Modelado de eficiencia en la recuperación de oro en procesos industriales
+Análisis predictivo para estimar la eficiencia de recuperación de oro en distintas etapas de purificación. Se implementaron modelos de regresión y se validó su desempeño con métricas de error específicas.
+Herramientas: Python, scikit-learn, matplotlib, pandas
+
+📹 Clasificador de reseñas de películas con NLP y aprendizaje automático
+Implementación de un sistema de procesamiento de lenguaje natural (NLP) para clasificar reseñas de películas como positivas o negativas. Comparación de modelos tradicionales y basados en BERT, alcanzando un F1-score superior a 0.85.
+Herramientas: Python, NLTK, spaCy, scikit-learn, LightGBM, BERT
+
+🧾 Modelado de datos seguros
+Desarrollo de modelos de clasificación, regresión y enmascaramiento de datos para apoyar decisiones de negocio en la compañía ficticia de seguros Sure Tomorrow. Incluye predicción de beneficios y creación de un sistema de clientes similares.
+Herramientas: Python, pandas, scikit-learn, seaborn, NumPy
 
 ---
 
