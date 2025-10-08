@@ -39,10 +39,10 @@ Herramientas: Python, pandas, scikit-learn, seaborn, NumPy
 
 ### 📬 Contacto Profesional
 
-<p align="left">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-César%20Dudley-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesardudleynieto/)
+### 📬 Contacto Profesional
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesardudleynieto/)
+&nbsp; &nbsp; &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-cesardud-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cesardud)
-
+&nbsp; &nbsp; &nbsp;
 [![Email](https://img.shields.io/badge/Email-cesardudleynieto@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesardudleynieto@gmail.com)
-</p>
