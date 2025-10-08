@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/portada.png" alt="César Dudley Castellanos Nieto - Economista Ambiental y Data Scientist" width="800"/>
+  <img src="https://github.com/cesardud/cesardud/blob/main/portada.png?raw=true" alt="César Dudley Castellanos Nieto - Economista Ambiental y Data Scientist" width="800"/>
 </p>
 
 # 👋 ¡Hola! Soy César Dudley Castellanos Nieto
@@ -40,7 +40,9 @@ Herramientas: Python, pandas, scikit-learn, seaborn, NumPy
 ### 📬 Contacto Profesional
 
 <p align="left">
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-César%20Dudley-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesardudleynieto/)
-    [![GitHub](https://img.shields.io/badge/GitHub-cesardud-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cesardud)
-    [![Email](https://img.shields.io/badge/Email-cesardudleynieto@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesardudleynieto@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-César%20Dudley-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesardudleynieto/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-cesardud-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cesardud)
+
+[![Email](https://img.shields.io/badge/Email-cesardudleynieto@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesardudleynieto@gmail.com)
 </p>
