@@ -3,7 +3,6 @@
 </p>
 
 # 👋 ¡Hola! Soy César Dudley Castellanos Nieto
-# 👋 ¡Hola! Soy César Dudley Castellanos Nieto
 
 📊 **Economista ambiental** con especialización en **Ciencia de Datos**. Aplico herramientas como **Python, SQL, Machine Learning y R** para transformar datos en decisiones. Me interesa resolver problemas complejos en sectores como energía, sostenibilidad, cumplimiento normativo y análisis económico.
 
